@@ -1,5 +1,5 @@
 # Algorithm
-Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul
+Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul <br>
 1.Sorting Algorithms (อัลกอริทึมเรียงลำดับ):
 
 	Bubble Sort
