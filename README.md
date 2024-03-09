@@ -1,6 +1,6 @@
 # Algorithm 🤖
 Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul <br><br>
-1.Sorting Algorithms (อัลกอริทึมเรียงลำดับ):
+1.Sorting Algorithms :
 
 	Bubble Sort
 	Insertion Sort
@@ -9,34 +9,34 @@ Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul <br><br
 	Quick Sort
 	Heap Sort
 
-2.Searching Algorithms (อัลกอริทึมค้นหา):
+2.Searching Algorithms :
 
 	Linear Search
 	Binary Search
 	Depth-First Search (DFS)
 	Breadth-First Search (BFS)
 
-3.Graph Algorithms (อัลกอริทึมกราฟ):
+3.Graph Algorithms :
 
 	Dijkstra's Algorithm
 	Bellman-Ford Algorithm
 	Kruskal's Algorithm
 	Prim's Algorithm
 
-4.Dynamic Programming (โปรแกรมเชิงไดนามิก):
+4.Dynamic Programming :
 
 	Fibonacci Sequence using Dynamic Programming
 	Longest Common Subsequence (LCS)
 	Knapsack Problem
 	Shortest Path in a Graph
 
-5.Tree Algorithms (อัลกอริทึมต้นไม้):
+5.Tree Algorithms :
 
 	Depth-First Traversal of a Tree
 	Breadth-First Traversal of a Tree
 	Binary Search Tree (BST) Operations
 
-6.String Algorithms (อัลกอริทึมสตริง):
+6.String Algorithms :
 
 	String Matching Algorithms (e.g., KMP, Rabin-Karp)
 	Longest Common Substring
@@ -51,12 +51,12 @@ Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul <br><br
 	Closest Pair of Points
 	Matrix Multiplication
 
-9.Greedy Algorithms (อัลกอริทึมโล่ง):
+9.Greedy Algorithms :
 
 	Huffman Coding
 	Kruskal's Algorithm (also mentioned in graph algorithms)
 
-10.Backtracking Algorithms (อัลกอริทึมแบ็กแทร็กกิ้ง):
+10.Backtracking Algorithms :
 
 	N-Queens Problem
 	Sudoku Solver
