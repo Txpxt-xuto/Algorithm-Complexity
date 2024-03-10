@@ -1,4 +1,4 @@
- <img src="https://imgur.com/CJKax9s.png" height=400px widht=10px>
+ <img src="https://imgur.com/CJKax9s.png" height=400px widht=10px position = center>
 
 # Algorithm 🤖
 Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul <br><br>
