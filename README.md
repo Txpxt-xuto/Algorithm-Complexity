@@ -1,3 +1,5 @@
+ <img src="https://imgur.com/CJKax9s.png">
+
 # Algorithm 🤖
 Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul <br><br>
 1.Sorting Algorithms :
