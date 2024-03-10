@@ -1,4 +1,4 @@
- <img src="https://imgur.com/CJKax9s.png">
+ <img src="https://imgur.com/CJKax9s.png" height=40px widht=50px>
 
 # Algorithm 🤖
 Algorithms ที่สาย Dev ควรรู้ by Tapat Toungsakul <br><br>
