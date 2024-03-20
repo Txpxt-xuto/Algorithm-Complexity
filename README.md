@@ -38,7 +38,7 @@ Algorithms ที่สาย problem solving ทุกคนควรรู้ 
 
 6.String Algorithms :
 
-	String Matching Algorithms (e.g., KMP, Rabin-Karp)
+	String Matching Algorithms
 	Longest Common Substring
 
 7.Sorting and Searching on Data Structures:
@@ -54,7 +54,7 @@ Algorithms ที่สาย problem solving ทุกคนควรรู้ 
 9.Greedy Algorithms :
 
 	Huffman Coding
-	Kruskal's Algorithm (also mentioned in graph algorithms)
+	Kruskal's Algorithm
 
 10.Backtracking Algorithms :
 
