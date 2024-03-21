@@ -73,7 +73,7 @@ Algorithms ที่สาย problem solving ทุกคนควรรู้ 
 	Decision Trees
 	k-Means Clustering
 
-<h1 position : center>Big O</h1>
+<h1>Big O</h1>
 
 <img src="https://www.freecodecamp.org/news/content/images/2021/06/1_KfZYFUT2OKfjekJlCeYvuQ.jpeg">
 
