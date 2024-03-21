@@ -73,6 +73,8 @@ Algorithms ที่สาย problem solving ทุกคนควรรู้ 
 	Decision Trees
 	k-Means Clustering
 
+<img src="https://www.freecodecamp.org/news/content/images/2021/06/1_KfZYFUT2OKfjekJlCeYvuQ.jpeg">
+
 Big O คืออะไร
 	Big O หรือ Big O Notation คือระยะเวลาในการประมวลผลที่แย่ที่สุด (worst-case complexity) หรือ ใช้พื้นที่และทรัพยากรมากที่สุดในการ compile อัลกอริทึมใดๆ หรือที่เรียกกันว่า ความซับซ้อนของอัลกอริทึม (Algorithm Complexity) ซึ่งนำมาใช้วัดการวัดประสิทธิภาพของ Algorithm นั้นๆได้ว่าเหมาะสมหรือไม่
 
