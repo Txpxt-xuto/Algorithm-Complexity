@@ -75,5 +75,12 @@ Algorithms ที่สาย problem solving ทุกคนควรรู้ 
 
 Big O คืออะไร
 	Big O หรือ Big O Notation คือระยะเวลาในการประมวลผลที่แย่ที่สุด (worst-case complexity) หรือ ใช้พื้นที่และทรัพยากรมากที่สุดในการ compile อัลกอริทึมใดๆ หรือที่เรียกกันว่า ความซับซ้อนของอัลกอริทึม (Algorithm Complexity) ซึ่งนำมาใช้วัดการวัดประสิทธิภาพของ Algorithm นั้นๆได้ว่าเหมาะสมหรือไม่
-	
-ประเภทของ Big O Notation
+
+ประเภทของ Big O
+	O(1) - Constant Time : เป็น Big O ที่ใช้เวลา พื้นที่และทรัพยากรน้อยที่สุด
+	O(log n) - Logarithmic Time :
+	O(n) - Linear Time : 
+	O(n log n) - Linearithmic Time : 
+	O(n^2) - Quadratic Time : 
+	O(2^n) - Exponential Time :
+	O(n!) - Factorial Time : เป็น Big O ที่ใช้เวลา พื้นที่และทรัพยากรมากที่สุด
