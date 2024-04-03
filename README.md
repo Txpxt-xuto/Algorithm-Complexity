@@ -1,4 +1,4 @@
-![image](https://i.pinimg.com/originals/97/15/c8/9715c8a695e64d0c6b664329387a231e.gif)
+![image](https://i.pinimg.com/564x/fe/42/b0/fe42b0299051d2b821c54d6807195031.jpg)
 # Algorithm 🤖
 Algorithms ที่สาย problem solving ทุกคนควรรู้ by Tapat Toungsakul <br><br>
 1.Sorting Algorithms :
