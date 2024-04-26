@@ -77,7 +77,7 @@ Algorithms ที่สาย problem solving ทุกคนควรรู้ 
 <br>
 <h1>Big O คืออะไร</h1>
 	<p>Big O หรือ Big O Notation คือระยะเวลาในการประมวลผลที่แย่ที่สุด (worst-case complexity) หรือ ใช้พื้นที่และทรัพยากรมากที่สุดในการ compile อัลกอริทึมใดๆ หรือที่เรียกกันว่า ความซับซ้อนของอัลกอริทึม (Algorithm Complexity) ซึ่งนำมาใช้วัดการวัดประสิทธิภาพของ Algorithm นั้นๆได้ว่าเหมาะสมหรือไม่</p><br>
-<img src="https://www.freecodecamp.org/news/content/images/2021/06/1_KfZYFUT2OKfjekJlCeYvuQ.jpeg">
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*2JIscloisHO2x1Dn.gif">
 <h1>ประเภทของ Big O</h1>
 	<p>O(1) - Constant Time : เป็น Big O ที่ใช้ทรัพยากรน้อยที่สุด โดยการทำงานจะเป็นลักษณะคงที่ แม้ Input จะมากหรือน้อย</p><br>
 	<p>O(log n) - Logarithmic Time : การทำงานของอัลกอริทึมนี้จะลดจำนวนลูปครึ่งนึงทุกครั้งที่มีการทำงานสำเร็จ เช่น Binary Search</p><br>
