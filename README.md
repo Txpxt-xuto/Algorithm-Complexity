@@ -1,4 +1,4 @@
-<img src="https://www.iig.ch/library/img//source-g5369aa21f_1920.jpg">
+<img src="https://imgur.com/Y19R3lB.png">
 
 # Algorithm 🤖
 
