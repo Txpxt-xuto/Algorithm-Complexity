@@ -84,5 +84,5 @@ Algorithms ที่สาย problem solving ทุกคนควรรู้ 
 	<p>O(n) - Linear Time : การทำงานของอัลกอริทึมนี้จะทำงานตามจำนวน Input ถ้ารับมาก ก็ทำมาก รับน้อย ทำน้อย เช่น loop, Finding min/max</p><br>
 	<p>O(n log n) - Linearithmic Time : การทำงานแบบซ้อนลูปที่ตัดข้อมูลที่ไม่ได้ใช้งานออกทีละครึ่ง เช่น merge sort, quick sort, LIS</p><br>
 	<p>O(n^2) - Quadratic Time : การทำงานแบบซ้อนลูปที่ไม่ได้ตัดข้อมูล เช่น bubble sort, selection sort, LCS</p><br>
-	<p>O(2^n) - Exponential Time : การทำงานแบบคำนวณทุกรูปแบบ เช่น ตัวซ้ำใน Array, Finding the exact solution of Traveling salesman problem</p><br>
+	<p>O(2^n) - Exponential Time : การทำงานแบบคำนวณทุกรูปแบบ เช่น Finding the exact solution of Traveling salesman problem</p><br>
 	<p>O(n!) - Factorial Time : เป็น Big O ที่ใช้เวลา พื้นที่และทรัพยากรมากที่สุด เช่น Permutation</p><br>
